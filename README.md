@@ -1,9 +1,7 @@
 # UAS_-PEMROGRAMAN-PYTHON-LANJUT_Kelompok-Pecel-Lele
 
-# Project ini dibuat oleh kami kelompok pecel lele, ini digunakan untuk mengkonversi sebuah gambar dari jpeg ke PNG dengan mudah
-code:
-
-
+**Project ini dibuat oleh kami kelompok pecel lele, ini digunakan untuk mengkonversi sebuah gambar dari jpeg ke PNG dengan mudah**
+'''
 import os
 from PIL import Image
 import datetime
